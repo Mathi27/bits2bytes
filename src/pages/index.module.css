@@ -415,7 +415,7 @@
 .codeHeader {
   background: #323232;
   padding: 0.75rem 1rem;
-  color: #888;
+  color: #b0b0b0;
   font-size: 0.8rem;
   font-family: 'SF Mono', 'Monaco', 'Inconsolata', 'Fira Mono', monospace;
 }
@@ -425,8 +425,9 @@
   margin: 0;
   font-size: 0.85rem;
   line-height: 1.7;
-  color: #e0e0e0;
+  color: #f0f0f0;
   overflow-x: auto;
+  background: #1e1e1e;
 }
 
 /* ==========================================================================
@@ -913,6 +914,7 @@
   .terminalBody,
   .codeContent {
     font-size: 0.625rem;
+    color: #f0f0f0;
   }
 }
 
