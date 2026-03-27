@@ -13,7 +13,7 @@ To understand flight, you must first change how you view air. Air is not empty s
 
 -   **The Concept**: Imagine wading through a pool. You feel the water resisting you.
 -   **Application:** A drone propeller does not spin in "nothing." It "swims" through the air, grabbing it and pushing it.
--   
+  
 ## The Core
 
 In School time and in first year of engineering we mostly use this concept very much -> Its called Newtons law
