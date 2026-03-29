@@ -16,7 +16,7 @@ The goal of this project is to provide **structured, practical, and lab-driven c
 ---
 ## Project Status
 
-🚧 This project is under active development.  
+This project is under active development.  
 Content, labs, and documentation will be added incrementally.
 
  
