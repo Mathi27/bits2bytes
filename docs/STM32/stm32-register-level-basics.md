@@ -21,7 +21,8 @@ That will clear bit x. You must invert the bit string with the bitwise NOT opera
 
 #### Toggling a bit
 
-The XOR operator (^) can be used to toggle a bit.<br>
+The XOR operator (^) can be used to toggle a bit.
+
 ``` c
 number ^= 1 << x;
 ```
@@ -46,11 +47,9 @@ Bit n will be set if x is 1, and cleared if x is 0.
 
 ## Setting up GPIO pins
 
-![basic gpio setup registers](/gpio_setup_registers.png)
+![basic gpio setup registers](/img/stm32/gpio_setup_registers.png)
 
-__under construction__ 🙈
-
-
+ 
 
 ## GPIO Registers
 
@@ -62,12 +61,13 @@ GPIOA->REG
 where REG can be one of the following:
 
 #### CRH and CRL
+**CRH** is used to set type/speed of pins 8–15 of the port.
 
-**CRH** is used to set type/and or speed of pins 8-15 of the port. <br>
-**CRL** is used to set type/and or speed of pins 0-7 of the port. <br>
+**CRL** is used to set type/speed of pins 0–7 of the port.
+
 Accessed as a 32 bit word, with 4 bits representing the state of each pin. Out of these 4 bits, the low 2 bits are MODE, and high 2 bits are CNF.
 
-![](/chr_crl_registers.png)
+![](/img/stm32/chr_crl_registers.png)
 
 The 4 bits for each pin can be set to:  
 0b0011 (binary) or 0x3 (HEX) - Corresponds to setting pin as output, same as pinMode()  
@@ -150,3 +150,4 @@ GPIOA->BSRR = 0b0011000000000100; //lower 16 bits
 //Clear A2, A12, A13 (LOW)
 GPIOA->BRR = 0b0011000000000100; //lower 16 bits
 ```
+
