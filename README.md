@@ -1,4 +1,4 @@
-﻿# 🚁 Bits2Bytes Labs
+# 🚁 Bits2Bytes Labs
 
 **Bits2Bytes Labs** is an open-source educational initiative focused on hands-on reading materials and labs for **Embedded Systems, Robotics, IoT, and Drone Engineering**.
 
@@ -27,9 +27,13 @@ Master microcontroller programming through 10 foundational coding exercises. Som
 10. **LCD Interfacing (16x2) (Don't use I2C Module)**
    - ⚡ *Task 10.1: 4-bit Mode*
 
+
 ### 🛸 Track 2: Drone Engineering
 Explore the fascinating world of autonomous flight and aerial robotics.
 - 📖 **[Reading Material] Drone Physics:** Understand the underlying mechanics of thrust, lift, drag, and weight.
+
+This project is under active development.  
+Content, labs, and documentation will be added incrementally.
 
 ---
 
@@ -61,4 +65,11 @@ This project is a proud **open-source educational initiative**:
 - Reuse, adaptation, and collaboration for educational use are strongly encouraged.
 - Attribution is appreciated!
 
+
 Contributions are welcome. If you are an educator, student, or practitioner and would like to improve or extend the content—feel free to open issues or pull requests!
+
+```bash
+npm install
+npm start
+```
+
