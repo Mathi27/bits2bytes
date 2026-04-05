@@ -53,7 +53,7 @@ function HomepageHeader() {
           <div className={styles.heroButtons}>
             <Link
               className={clsx('button button--lg', styles.primaryButton)}
-              to="/docs/intro">
+              to="docs/stm32-intro">
               Start Learning
               <span className={styles.buttonArrow}>→</span>
             </Link>
