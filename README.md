@@ -1,4 +1,4 @@
-# 🚁 Bits2Bytes Labs
+#  Bits2Bytes Labs
 
 **Bits2Bytes Labs** is an open-source educational initiative focused on hands-on reading materials and labs for **Embedded Systems, Robotics, IoT, and Drone Engineering**.
 
