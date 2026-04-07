@@ -6,11 +6,11 @@ The goal of this ultimate learning repository is to provide **structured, practi
 
 ---
 
-## 📚 Reading Materials & Course Labs
+##  Reading Materials & Course Labs
 
 Our curriculum is built as progressive reading materials and labs. Dive into our highly structured tracks below:
 
-### 🛠️ Track 1: STM32 Embedded Systems
+###  Track 1: STM32 Embedded Systems
 Master microcontroller programming through 10 foundational coding exercises. Some labs include **Extra Tasks (.1)** to push your skills further!
 
 1. **LED Blink (Basic GPIO Output)**
@@ -28,7 +28,7 @@ Master microcontroller programming through 10 foundational coding exercises. Som
    - ⚡ *Task 10.1: 4-bit Mode*
 
 
-### 🛸 Track 2: Drone Engineering
+### Track 2: Drone Engineering
 Explore the fascinating world of autonomous flight and aerial robotics.
 - 📖 **[Reading Material] Drone Physics:** Understand the underlying mechanics of thrust, lift, drag, and weight.
 
@@ -37,7 +37,7 @@ Content, labs, and documentation will be added incrementally.
 
 ---
 
-## 🚀 How to Read & Use This Project
+##  How to Read & Use This Project
 
 This documentation is built using [Docusaurus](https://docusaurus.io/). You can read all the materials via the interactive web interface!
 
@@ -55,9 +55,9 @@ npm start
 
 ---
 
-## 🤝 Project Status & Open-Source Initiative
+##  Project Status & Open-Source Initiative
 
-🚧 This project is currently under active development.
+ This project is currently under active development.
 Content, labs, and documentation are continuously being polished.
 
 This project is a proud **open-source educational initiative**:
