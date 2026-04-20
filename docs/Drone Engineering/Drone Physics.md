@@ -84,3 +84,6 @@ Physics of drones is a perfect blend of natural forces and human ingenuity. Spec
 Furthermore, this intricate balance of forces highlights the impressive engineering that powers their versatility and precision.
 
 
+## References
+
+1. [Drone Flight Physics Notes](https://homepages.abdn.ac.uk/nph120/meteo/DroneFlight.pdf)
